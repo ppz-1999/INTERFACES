@@ -1,0 +1,15 @@
+
+:root {
+    --DarkGreen: #006400;
+    --light: #ffffff;
+}
+
+body {
+    color: var(--light)
+}
+
+.form-control, .btn {
+    min-height: 3.125rem;
+    line-height: initial;
+
+}
